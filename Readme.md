@@ -1,4 +1,7 @@
 # Boston Crime EDA (2018)
+
+![Boston City](Images/boston.jpg)
+
 Github won't render this notebook... Access the notebook from my personal website below;
 
 [![Netlify](https://api.netlify.com/api/v1/badges/14aa0855-7217-45c4-a315-d21bcc5a4014/deploy-status)](https://nirmal-boston-crime-eda.netlify.app/)
@@ -25,6 +28,14 @@ The key objectives of the Boston Crime EDA project are as follows:
 6. **Data Visualization**: Utilize various data visualization techniques such as charts, graphs, and maps to effectively communicate the findings. Visual representations can help highlight patterns, outliers, and relationships within the data.
 
 7. **Insights and Recommendations**: Summarize the key insights derived from the EDA process and provide actionable recommendations for relevant stakeholders. These insights can contribute to informed decision-making and the development of strategies to address crime-related challenges in Boston.
+
+## Sample Snaps
+
+![Most Committed Offense](Images/bar.jpg)
+
+![District-wise Trend](Images/choro.png)
+
+![Crime Count by District](Images/bar1.png)
 
 ## Tools and Libraries
 The Boston Crime EDA project utilizes the following tools and libraries:
