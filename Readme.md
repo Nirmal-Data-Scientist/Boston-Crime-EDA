@@ -1,1 +1,1 @@
-[![Netlify](https://api.netlify.com/api/v1/badges/14aa0855-7217-45c4-a315-d21bcc5a4014/deploy-status)](https://nirmal-boston-crime-eda.netlify.app/)
+[![Netlify](https://badges.netlify.com/api/site-name.svg?branch=master)](https://nirmal-boston-crime-eda.netlify.app/)
