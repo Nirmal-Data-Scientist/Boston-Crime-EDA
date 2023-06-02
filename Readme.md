@@ -48,3 +48,14 @@ The Boston Crime EDA project utilizes the following tools and libraries:
 
 ## Conclusion
 The Boston Crime EDA project aims to uncover insights and patterns within the crime data of Boston. By analyzing the dataset and utilizing various statistical and visualization techniques, we can gain a deeper understanding of crime dynamics in the city. The findings and recommendations derived from this analysis can assist in addressing and mitigating crime-related issues, ultimately contributing to a safer and more secure community.
+
+## Additional Note
+- If the website takes too long to load, you can download the HTML file and view it locally.
+  - Click ➡️ [here](https://raw.githubusercontent.com/Nirmal-Data-Scientist/Boston-Crime-EDA/main/index.html) to access the raw HTML file.
+  - Right-click on the page and select "Save As" or "Save Page As" (option may vary).
+  - Choose the save location on your computer and click "Save".
+  - Navigate to the saved location on your computer.
+  - Double-click on the "index.html" file to open it in a web browser.
+  - The EDA work will now be displayed locally in your web browser for exploration.
+
+These steps will allow you to easily download the HTML file and view the EDA work locally on your computer.
