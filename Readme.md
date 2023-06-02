@@ -1,6 +1,6 @@
 # Boston Crime EDA (2018)
 
-![Boston City](Images/boston.jpg)
+![Boston City](Related Images and Videos/boston.jpg)
 
 Github won't render this notebook... Access the notebook from my personal website below;
 
@@ -31,11 +31,11 @@ The key objectives of the Boston Crime EDA project are as follows:
 
 ## Sample Snaps
 
-![Most Committed Offense](Images/bar.jpg)
+![Most Committed Offense](Related Images and Videos/bar.jpg)
 
-![District-wise Trend](Images/choro.png)
+![District-wise Trend](Related Images and Videos/choro.png)
 
-![Crime Count by District](Images/bar1.png)
+![Crime Count by District](Related Images and Videos/bar1.png)
 
 ## Tools and Libraries
 The Boston Crime EDA project utilizes the following tools and libraries:
