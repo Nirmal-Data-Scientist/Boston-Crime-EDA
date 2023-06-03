@@ -1,6 +1,6 @@
 # Boston Crime EDA (2018)
 
-![Boston City](Related Images and Videos/boston.jpg)
+![Boston City](https://github.com/Nirmal-Data-Scientist/Boston-Crime-EDA/assets/123751119/de85d03a-c3a3-4d34-9a7b-9a5465c38e11)
 
 Github won't render this notebook... Access the notebook from my personal website below;
 
@@ -31,11 +31,11 @@ The key objectives of the Boston Crime EDA project are as follows:
 
 ## Sample Snaps
 
-![Most Committed Offense](Related Images and Videos/bar.jpg)
+![Most Committed Offense](https://github.com/Nirmal-Data-Scientist/Boston-Crime-EDA/assets/123751119/285b8cfa-3056-4286-93a6-68d4c6756ebf)
 
-![District-wise Trend](Related Images and Videos/choro.png)
+<img width="872" alt="District-wise Trend" src="https://github.com/Nirmal-Data-Scientist/Boston-Crime-EDA/assets/123751119/25e3bebe-b24c-4aa0-94a2-3c6638548099">
 
-![Crime Count by District](Related Images and Videos/bar1.png)
+<img width="900" alt="Crime Count by District" src="https://github.com/Nirmal-Data-Scientist/Boston-Crime-EDA/assets/123751119/5ed554c0-ee99-4230-a1b3-14e6641a476e">
 
 ## Tools and Libraries
 The Boston Crime EDA project utilizes the following tools and libraries:
